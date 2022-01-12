@@ -137,6 +137,7 @@ describe('Test Database methods', () => {
             console.log('#8: Error: ', err.message);
             done(err);
         });
+        
     });
-
 });
+
